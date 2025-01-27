@@ -1,0 +1,3 @@
+/Users/BryanArgueta/CLionProjects/activity1/cmake-build-debug/CMakeFiles/activity1.dir
+/Users/BryanArgueta/CLionProjects/activity1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/BryanArgueta/CLionProjects/activity1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
